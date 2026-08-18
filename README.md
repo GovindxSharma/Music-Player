@@ -7,7 +7,7 @@ A stylish and modern **music player frontend UI** built using **HTML, CSS, and J
 
 ## 🔗 Live Demo
 
-👉 [View Live](https://music-player-pa29.onrender.com)
+👉 [View Live](https://govindxsharma.github.io/Music-Player/)
 
 ---
 
